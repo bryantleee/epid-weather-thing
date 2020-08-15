@@ -1,2 +1,2 @@
 # epid-weather-thing
-epd + raspberry pi experiment 
+inky wHAT + raspberry pi experiment 
